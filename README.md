@@ -358,7 +358,7 @@ An interactive website showcasing detailed car reviews with a modern responsive 
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution 
 
 <div align="center">
 
