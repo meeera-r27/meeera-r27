@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6C63FF&text=Meera%20R&fontAlign=50&fontAlignY=38&fontSize=60&desc=Software%20Engineer%20%7C%20MERN%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=F4B400&text=Meera%20R&fontAlign=50&fontAlignY=38&fontSize=60&fontColor=1A1A1A&desc=MERN%20Stack%20Developer%20%7C%20B.Tech%20CSE%20Student&descAlignY=58&descColor=333333&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=B.Tech+Computer+Science+Student;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Open+Source+Enthusiast;Always+Learning+Something+New"/>
 
