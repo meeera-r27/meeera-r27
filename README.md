@@ -69,11 +69,6 @@ Modern automobile service website with responsive UI.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meeera-r27&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/meeera-r27" alt="Contribution Calendar"/>
-</p>
 
 ## 📫 Connect
 
